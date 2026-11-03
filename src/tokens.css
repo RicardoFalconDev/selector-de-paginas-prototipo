@@ -1,0 +1,65 @@
+/* Design tokens extraídos de Figma — FID by Lakaut (Exploraciones) */
+:root {
+  /* Brand */
+  --brand-700-main: #2a39d0;
+  --brand-400: #4758e7;
+  --text-primary-default: #2131bd;
+  --select-blue: #3366ff;
+  --select-badge-bg: #eef0ff;
+
+  /* Neutrals */
+  --neutral-black: #222229;
+  --gray-900: #3b3a45;
+  --neutral-20: #333333;
+  --neutral-30: #494949;
+  --neutral-40: #616161;
+  --text-subtle: #495057;
+  --text-muted: #6a7282;
+  --text-slate-800: #1e293b;
+  --text-slate-700: #334155;
+  --text-slate-500: #64748b;
+  --text-ink: #172033;
+  --text-heading: #0a0a0a;
+  --text-dark: #212121;
+  --gray-700: #898999;
+  --neutral-500: #adb5bd;
+  --neutral-80: #cacaca;
+  --gray-300: #e1e1eb;
+  --neutral-90: #e1e1e6;
+  --stroke-default: #e2e5ef;
+  --stroke-light: #dee2e6;
+  --stroke-subtle: #e9ecef;
+  --border-zoom: #e0e0e0;
+  --gray-200: #f2f2f8;
+  --neutral-95: #f2f2f7;
+  --bg-subtle: #f1f3f5;
+  --bg-surface: #f8f9fa;
+  --bg-surface-alt: #fafafc;
+  --white: #ffffff;
+
+  /* Sidebar thumbs */
+  --thumb-active: #95c0ff;
+
+  /* Firma (estampa) */
+  --stamp-bg: #f3f8ff;
+  --stamp-bar: #255eb1;
+  --stamp-title: #155dfc;
+  --stamp-text: #364153;
+  --stamp-handle: #2b7fff;
+
+  /* Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-btn: 20px;
+  --radius-pill: 999px;
+
+  /* Shadows */
+  --shadow-8dp: 0 0 24.4px 0 rgba(72, 70, 82, 0.1);
+  --shadow-4dp: 0 24px 7px 0 rgba(72, 70, 82, 0), 0 15px 6px 0 rgba(72, 70, 82, 0.01),
+    0 9px 5px 0 rgba(72, 70, 82, 0.03), 0 4px 4px 0 rgba(72, 70, 82, 0.05),
+    0 1px 2px 0 rgba(72, 70, 82, 0.05), 0 0 0 0 rgba(72, 70, 82, 0.06);
+
+  --font: 'Inter', system-ui, -apple-system, sans-serif;
+}

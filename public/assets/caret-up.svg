@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icons firmador">
+<mask id="mask0_0_132" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="22" height="22">
+<rect id="Bounding box" width="22" height="22" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_0_132)">
+<path id="keyboard_arrow_up" d="M11 9.24581L7.1076 13.138C7.0219 13.2238 6.91671 13.2697 6.79204 13.2755C6.66753 13.2814 6.55654 13.2356 6.45906 13.138C6.36144 13.0405 6.31262 12.9324 6.31262 12.8137C6.31262 12.695 6.36144 12.5869 6.45906 12.4894L10.4816 8.46665C10.6298 8.3186 10.8026 8.24458 11 8.24458C11.1974 8.24458 11.3702 8.3186 11.5184 8.46665L15.5409 12.4894C15.6268 12.5751 15.6726 12.6803 15.6784 12.805C15.6844 12.9295 15.6386 13.0405 15.5409 13.138C15.4435 13.2356 15.3354 13.2844 15.2167 13.2844C15.098 13.2844 14.9899 13.2356 14.8924 13.138L11 9.24581Z" fill="#1C1B1F"/>
+</g>
+</g>
+</svg>
